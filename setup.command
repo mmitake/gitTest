@@ -1,6 +1,6 @@
 #!/bin/sh
 
-SKETCH_DIR="./sketch"
+SKETCH_DIR="./sketch/"
 HOOKDIR="./.git/hooks"
 SCRIPT="./pre-commit"
 
